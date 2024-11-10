@@ -35,7 +35,7 @@ Tested with Unity 2021.3.11f1
 
 Using the Unity package manager, choose Add Package from git URL and enter:
 
-    https://github.com/bartofzo/NativeTrees.git?path=/Packages/NativeTrees
+    https://github.com/Thendon/NativeTrees.git?path=/Packages/NativeTrees
 
 ## Performance
 
